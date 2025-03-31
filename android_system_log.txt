@@ -1,0 +1,3 @@
+Android OS Version: 16
+Device Model: sdk_gphone64_x86_64
+Memory Info: Free RAM:   800,496K (  444,508K cached pss +   222,444K cached kernel +   133,544K free)
